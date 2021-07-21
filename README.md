@@ -1,31 +1,12 @@
-# TWITTER Bootstrap
+# NeuroStartUp
 
-## Start
-**Twitter boostrap** - CSS framework [Of.site](get.bootstrap.com)
-![Bootstrap logo](http://fishsubsidy.org/wp-content/uploads/2020/01/exotic-cat-1.jpg)
+![LOGO](https://camo.githubusercontent.com/ace14ee894d150192a7b05b12410738aa65528da742bbce69315a5f441320ea7/68747470733a2f2f692e696d6775722e636f6d2f495a4f525769492e706e67)
 
+Динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта
 
-Set up options
-* CDM
-* NPM
+## Наши преимущества
 
+* высокая точность поиска
+* высокая скорость поиска
+* низкая цена
 
-### Setting up via CDN
-
-1. Execute command
-1. ...
-
-
-#### Setting up via NPM
-
-##### Use
-
-
-```html
-<html>
-    <head></head>
-</html>
-```
-
-```javascript
-console.log('message';')
